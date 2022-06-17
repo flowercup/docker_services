@@ -1,5 +1,4 @@
 version: '3'
-name: "flowercup_services"
 services:
   postgres_historical:
     image: timescale/timescaledb:latest-pg14
