@@ -1,4 +1,6 @@
 # Services
+To run services run: `./run_services.sh`
+If it does fail change it to executable with `chmod +x run_services.sh`
 ### Postgresql (HISTORICAL DATA)
 jdbc url: `jdbc:postgresql://localhost:8001/postgres`
 
